@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1475634336 source:c:\users\omarm\dropbox\codeblocks proyects\convertirabinario\main.cpp
+	<iostream>
+	"Convertir.h"
+
+1475639673 c:\users\omarm\dropbox\codeblocks proyects\convertirabinario\include\convertir.h
+
+1475633928 source:c:\users\omarm\dropbox\codeblocks proyects\convertirabinario\src\convertir.cpp
+	"Convertir.h"
+
